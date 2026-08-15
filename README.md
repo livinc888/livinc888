@@ -50,7 +50,7 @@ I enjoy working across the complete development lifecycle — from designing bac
 
 ### My focus
 
-```text
+
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
 │  💻 SOFTWARE ENGINEERING                                    │
